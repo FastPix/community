@@ -1,4 +1,4 @@
-[![FastPix logo](https://github.com/user-attachments/assets/d2f63b88-4ed8-4f0e-818a-5eec5d04e2f7)](https://fastpix.io/)
+[![FastPix logo](https://github.com/user-attachments/assets/d2f63b88-4ed8-4f0e-818a-5eec5d04e2f7)](https://fastpix.com/)
 
  Hey there, we're **FastPix**!
 
@@ -10,14 +10,13 @@ We understand the complexities of building video products from the ground up. On
 
 Everything you need to integrate, upload, and analyze video with ease. Access docs, APIs, and SDKs in one place:
 
-*  [Docs](https://www.docs.fastpix.io)
-*  [Gudies](https://docs.fastpix.io/docs)
-*  [API References](https://docs.fastpix.io/reference)
-*  [Language SDKs](https://docs.fastpix.io/docs/sdks)
-*  [Resumable upload SDKs](https://docs.fastpix.io/docs/resumable-uploads-sdk-for-web)
-*  [FastPix player](https://docs.fastpix.io/docs/video-player-overview)
-*  [Video Data SDKs](https://docs.fastpix.io/docs/install-video-data-sdk)
-*  [Change logs](https://docs.fastpix.io/changelog)
+*  [Docs](https://fastpix.com/docs)
+*  [API References](https://fastpix.com/docs/product-os-api/overview)
+*  [Language SDKs](https://fastpix.com/docs/language-sdks/choose-an-sdk)
+*  [Resumable upload SDKs](https://fastpix.com/docs/upload-videos/set-up-resumable-uploads-for-web)
+*  [FastPix player](https://fastpix.com/docs/player-sdks/introduction)
+*  [Video Data SDKs](https://fastpix.com/docs/get-started/video-data-introduction)
+*  [Change logs](https://fastpix.com/docs/changelog/release-notes)
 
 
 
@@ -27,7 +26,6 @@ Everything you need to integrate, upload, and analyze video with ease. Access do
 💬 Got questions, ideas, or just want to say hi? We’re hanging out on:
 
 * [GitHub Discussions](https://github.com/orgs/FastPix/discussions)
-* [Discussion](https://docs.fastpix.io/discuss)
 
 Connect with us and engage with users on our community platforms. Join our discussions on Discord, follow us on [LinkedIn](https://www.linkedin.com/company/fastpix/) and [Twitter](https://x.com/FastPixHQ) for updates, and to stay in touch with latest news and developments in video tech. Our social media team keeps us surprised. No boring stuff. We look forward to your participation and feedback!
 
